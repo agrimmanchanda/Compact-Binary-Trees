@@ -15,5 +15,5 @@ For example, for original tree X1 & X2:
 The compact tree would look like:
 
                                                   X1
-                                             X2        X2 
-                                           0          0   1
+                                              0         X2 
+                                                      0    1
