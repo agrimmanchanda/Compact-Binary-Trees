@@ -1,6 +1,9 @@
 # Compact-Binary-Trees
 Generate a compact (shortest possible) binary tree from a Boolean function
 
+To compile, enter on command line: g++ main.cpp -o main
+
+To run, enter on command line: ./main
 
 Functionality of the project is exactly same as Binary Trees project, with added compacting capability. 
 
